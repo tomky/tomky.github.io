@@ -1,0 +1,24 @@
+# Site settings
+title: this.is.TOMKY's.
+owner: Chih-Yu Wang
+email: cywang@citi.sinica.edu.tw
+description: > # this means to ignore newlines until "baseurl:"
+  Goal: find things worthy, get things going, keep things working.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tom.ky" # the base hostname & protocol for your site
+labname: "Strategic Networking and Communications Laboratory"
+labnickname: "SNAClab"
+laburl: "http://snaclab.github.io/"
+twitter_username: tomky_wang
+github_username:  tomky
+skype_username:   tomkywang
+flickr_username:  tomky
+fb_img: /img/cywang_small.jpg
+
+# Build settings
+markdown: kramdown
+
+analytics_id : 'UA-68115009-1'
+
+gems:
+  - jekyll-sitemap
