@@ -5,7 +5,7 @@ layout: default
 <img src="../img/cywang_small.jpg" alt="photo" width="30%" style="max-width:230px;float:right;border-radius: 10%;" />
 
 Director of [{{ site.labnickname }}]({{ site.laburl }}),  
-[Assistant Research Fellow](http://www.citi.sinica.edu.tw/pages/cywang/index_zh.html),  
+[Associate Research Fellow](http://www.citi.sinica.edu.tw/pages/cywang/index_zh.html),  
 Research Center for Information Technology Innovation, Academia Sinica  
 
 **Email**: <cywang@citi.sinica.edu.tw>  
