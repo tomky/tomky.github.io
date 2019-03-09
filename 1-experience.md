@@ -13,7 +13,7 @@ permalink: /experience/
 
 * Associate Research Fellow, Research Center for Information Technology Innovation, Academia Sinica (2019.01 - present)
 
-Assistant Research Fellow, Research Center for Information Technology Innovation, Academia Sinica (2014.08 - 2019.01)
+* Assistant Research Fellow, Research Center for Information Technology Innovation, Academia Sinica (2014.08 - 2019.01)
 * Research Assistant, Institute of Information Science, Academia Sinica  (2012.08 - 2013.07)  
 * Visiting Scholar, Department of Electrical and Computer Engineering, University of Maryland (2011.04 - 2012.03)  
 * Free Blogger @ Engadget Chinese (2006.07 - 2011.07)
