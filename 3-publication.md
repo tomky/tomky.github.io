@@ -7,14 +7,13 @@ permalink: /publication/
 
 ### Journal
 
-1. Cheng-Chih Chao, Chih-Yu Wang, Chia-Han Lee, Hung-Yu Wei, Wen-Tsuen Chen, "Pair Auction and Matching for Resource Allocation in Full- Duplex Cellular Systems," to appear in IEEE Transactions on Vehicular Technology.
+1. Cheng-Chih Chao, **Chih-Yu Wang**, Chia-Han Lee, Hung-Yu Wei, Wen-Tsuen Chen, "Pair Auction and Matching for Resource Allocation in Full- Duplex Cellular Systems," to appear in IEEE Transactions on Vehicular Technology.
 
-1.	Yi-Hsuan Hung, Chih-Yu Wang, Ren-Hung Hwang, "Optimizing Social Welfare of Live Video Streaming Services in Mobile Edge
-Computing," to appear in IEEE Transactions on Mobile Computing.
+1.	Yuan-Yao Shih, **Chih-Yu Wang**, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
 
-1.	Yuan-Yao Shih, Chih-Yu Wang, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
+1.	Yi-Hsuan Hung, **Chih-Yu Wang**, Ren-Hung Hwang, "Optimizing Social Welfare of Live Video Streaming Services in Mobile Edge Computing," IEEE Transactions on Mobile Computing, volume 19, number 4, pages 922-934, April 2020.
 
-1.	Yi Zhang, Chih-Yu Wang, Hung-Yu Wei, "Parking Reservation Auction for Parked Vehicle Assistance in Vehicular Fog Computing," IEEE Transactions on Vehicular Technology, volume 68, number 4, pages 3126-3139, April 2019.
+1.	Yi Zhang, **Chih-Yu Wang**, Hung-Yu Wei, "Parking Reservation Auction for Parked Vehicle Assistance in Vehicular Fog Computing," IEEE Transactions on Vehicular Technology, volume 68, number 4, pages 3126-3139, April 2019.
 
 1. 	Khurshed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "A Novel Nested Q-Learning Method to Tackle Time-Constrained Competitive Influence Maximization," IEEE Access, volume 7, pages 6337 - 6352, December 2018.
 
@@ -26,23 +25,24 @@ Computing," to appear in IEEE Transactions on Mobile Computing.
 
 1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, "Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?," IEEE Transactions on Knowledge and Data Engineering, volume 30, number 5, pages 908-921, May 2018.
 
-1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, "Hidden Chinese Restaurant Game: Grand Information Extraction for Stochastic Network Learning," IEEE Transactions on Signal and Information Processing over Networks, volume 3, number 2, pages 330 - 345, June 2017.
+1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, "Hidden Chinese Restaurant Game: Grand Information Extraction for Stochastic Network Learning," to appear in IEEE Transactions on Signal and Information Processing over Networks.
 
-1. Shih-Tang Su, Bo-Yuan Huang, **Chih-Yu Wang**, Che-Wei Yeh, Hung-Yu Wei, "Protocol Design and Game Theoretic Solutions for Device-to-Device Radio Resource Allocation," IEEE Transactions on Vehicular Technology, volume 66, number 5, pages 4271 - 4286, May 2017.
+1. Shih-Tang Su, Bo-Yuan Huang, **Chih-Yu Wang**, Che-Wei Yeh, Hung-Yu Wei, "Protocol Design and Game Theoretic Solutions for Device-to-Device Radio Resource Allocation," to appear in IEEE Transactions on Vehicular Technology.
 
 1. **Chih-Yu Wang**, Guan-Yu Lin, Ching-Chun Chou, Che-Wei Yeh, Hung-Yu Wei, "Device-to-Device Communication in LTE-Advanced System: A Strategy-proof Resource Exchange Framework," IEEE Transactions on Vehicular Technology, volume 65, number 12, pages 10022-10036, December 2016.
 
 1. **Chih-Yu Wang**, Hung-Yu Wei, Wen-Tsuen Chen, “Resource Block Allocation with Carrier-Aggregation: A Strategy-Proof Auction Design,” IEEE Transactions on Mobile Computing, volume 15, number 12, pages 3142-3155, December 2016.
 
-1. **Chih-Yu Wang**, Chun-Han Ko, Hung-Yu Wei, Athanasios V. Vasilakos, "A Voting-based Femtocell Downlink Cell-Breathing Control Mechanism," IEEE-ACM Transactions on Networking, volume 24, number 1, pages 85-98, February 2016.
+1.	**Chih-Yu Wang**, Chun-Han Ko, Hung-Yu Wei, Athanasios V. Vasilakos, "A Voting-based Femtocell Downlink Cell-Breathing Control Mechanism," to appear in IEEE-ACM Transactions on Networking.
 
 1. Yan Chen, Chunxiao Jiang, **Chih-Yu Wang**, Yang Gao, K. J. Ray Liu,"Decision Learning: Data Analytic Learning with Strategic Decision Making," IEEE Signal Processing Magazine, volume 33, number 1, pages 37-56, ﻿January 2016.
 
-1. 	Biling Zhang, Yan Chen, **Chih-Yu Wang**, K.J. Ray Liu,"A Chinese Restaurant Game for Learning and Decision Making in Cognitive Radio Networks," Computer Networks, volume 91, pages 117-134, ﻿November 2015.
+5.	Biling Zhang, Yan Chen, **Chih-Yu Wang**, K.J. Ray Liu,"A Chinese Restaurant Game for Learning and Decision Making in Cognitive Radio Networks," Computer Networks, volume 91, pages 117-134, ﻿November 2015.
+
 
 4.	**Chih-Yu Wang**, Yan Chen, Hung-Yu Wei, K. J. Ray Liu, "Scalable Video Multicasting: A Stochastic Game Approach with Optimal Pricing," IEEE Transactions on Wireless Communications, volume 14, number 5, pages 2353-2367, May 2015.
 
-5.	Chunxiao Jiang, Yu-Han Yang, Yan Chen, **Chih-Yu Wang**, K.J. Ray Liu, "Dynamic Chinese Restaurant Game: Theory and Application to Cognitive Radio Networks," IEEE Transactions on Wireless Communications, volume 13, number 4, pages 1960-1973, April 2014.
+5.	Chunxiao Jiang, Yu-Han Yang, Yan Chen, **Chih-Yu Wang**, K.J. Ray Liu, "Dynamic Chinese Restaurant Game: Theory and Application to Cognitive Radio Networks," IEEE Transactions on Wireless Communications, volume 13, number 4, pages 1960 - 1973, April 2014.
 
 6.	Yu-Han Yang, Chunxiao Jiang, Yan Chen, **Chih-Yu Wang**, K.J. Ray Liu, "Wireless Access Network Selection Game with Negative Externality," IEEE Transactions on Wireless Communications, volume 12, number 10, pages 5048-5060, October 2013.
 
@@ -60,16 +60,15 @@ Computing," to appear in IEEE Transactions on Mobile Computing.
 
 ### Book Chapter
 
-
 1. **Chih-Yu Wang**, Hung-Yu Wei, Mehdi Bennis and Athanasios V. Vasilakos. "Game-Theoretic Approaches in Heterogeneous Networks," C. Yang and J. Li (Eds.)  Game Theory Framework Applied to Wireless Communication Networks. IGI Global, ISBN 978-1-4666-8642-7, pp. 88-102 (23 pages), Sep. 2015.
 
-1. **Chih-Yu Wang**, Yin-Cheng Huang, Cheng-Han Mai, Fu-Wang Chang, and Hung-Yu Wei, " Cross-Layer Optimization for Video Transmission over WLAN: Cross-Layer Prioritization," H. F. Rashvand and Y. S. Kavian (Eds.) Using Cross-Layer Techniques for Communication Systems, IGI Global, ISBN 978-1-4666-0960-0, pp. 500-526 (27 pages), Apr. 2012
+1. **Chih-Yu Wang**, Yin-Cheng Huang, Cheng-Han Mai, Fu-Wang Chang, and Hung-Yu Wei, " Cross-Layer Optimization for Video Transmission over WLAN: Cross-Layer Prioritization," H. F. Rashvand and Y. S. Kavian (Eds.) Using Cross-Layer Techniques for Communication Systems, IGI Global, ISBN 978-1-4666-0960-0, pp. 500-526 (27 pages), Apr. 2012.
 
 
 ### Conference
-1.	Po-Yu Chou, Wei-Yu Chen, Chih-Yu Wang, Ren-Hung Hwang, Wen-Tsuen Chen, "Deep Reinforcement Learning for MEC Streaming with Joint User Association and Resource Management," IEEE ICC, Dublin, Ireland, June 2020.
+1.	Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Deep Reinforcement Learning for MEC Streaming with Joint User Association and Resource Management," IEEE ICC, Dublin, Ireland, June 2020.
 
-2.	Chao-Lun Wu, Te-Chuan Chiu, Chih-Yu Wang, Ai-Chun Pang, "Mobility-Aware Deep Reinforcement Learning with Glimpse Mobility Prediction in Edge Computing," IEEE ICC, Dublin, Ireland, June 2020.
+2.	Chao-Lun Wu, Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, "Mobility-Aware Deep Reinforcement Learning with Glimpse Mobility Prediction in Edge Computing," IEEE ICC, Dublin, Ireland, June 2020.
 
 1. Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Live Video Streaming with Joint User Association and Caching Placement in Mobile Edge Computing," IEEE ICNC, Big Island, Hawaii, USA, February 2020.
 
@@ -89,9 +88,10 @@ Computing," to appear in IEEE Transactions on Mobile Computing.
 
 1. **Chih-Yu Wang**, Yan Chen, K.J. Ray Liu, “Game-Theoretic Cross Social Media Analytic: How Yelp Ratings Affect Deal Selection on Groupon?,” IEEE ICDE (TKDE Poster), Paris, France, April 2018
 
-1. Fredrick M Awuor, **Chih-Yu Wang**, Tzu-Chieh Tsai, "Motivating Content Sharing in Mobile Social Network through Collective Bidding," IEEE WCNC, Barcelona, Spain, April 2018.
+1. Fredrick M Awuor, **Chih-Yu Wang**, Tzu-Chieh Tsai, “Motivating Content Sharing in Mobile Social Network through Collective Bidding,” IEEE WCNC 2018, Barcelona, Spain, April 2018.
 
-1.	Yi-Hsuan Hung, **Chih-Yu Wang**, "Fog Micro Service Market: Promoting Fog Computing using Free Market Mechanism," IEEE WCNC 2018, Barcelona, Spain, April 2018.
+1. Yi-Hsuan Hung, **Chih-Yu Wang**, “Fog Micro Service Market: Promoting Fog Computing using Free Market Mechanism,” IEEE WCNC 2018, Barcelona, Spain, April 2018.
+
 
 1. Shang-Hong Hsu, Chih-Han Lin, **Chih-Yu Wang**, W. T. Chen, "Minimizing Upload Latency for Critical Tasks in Cellular-based IoT Networks using Multiple Relays," IEEE ICC 2017, Paris, France, May 2017.
 

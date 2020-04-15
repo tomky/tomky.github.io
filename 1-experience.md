@@ -19,11 +19,11 @@ permalink: /experience/
 * Free Blogger @ Engadget Chinese (2006.07 - 2011.07)
 
 ## Awards
-
-* National Science Council Conference Travel Grant (2007, 2009, 2010)
-* National Science Council Graduate Students Study Abroad Program (2011 - 2012)
+* K. T. Li Young Researcher Award (2019)
 * Best Presentation Award in Taiwan Spring School on Information Theory and Communications (2013)
 * IEEE INFOCOM Student Travel Grant (sponsored by IEEE Communications Society) (2013)
 * TIEEE Ph.D Thesis Award - Merit Award (2013)
 * IICM Ph.D Tehsis Award - Honorable Mention (2013)
 * National Taiwan University GICE Ph.D Thesis Award (2013)
+* National Science Council Graduate Students Study Abroad Program (2011 - 2012)
+* National Science Council Conference Travel Grant (2007, 2009, 2010)
