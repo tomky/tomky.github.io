@@ -7,9 +7,11 @@ permalink: /publication/
 
 ### Journal
 
-1.	Yuan-Yao Shih, Chih-Yu Wang, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
+1. Zhan-Lun Chang, Chih-Yu Wang, Hung-Yu Wei, "Flat-rate Pricing and Truthful Workload Allocation Mechanism in Multi-Layer Edge Computing," to appear in IEEE Transactions on Wireless Communications.
 
-2.	Ren-Hung Hwang, Chih-Yu Wang, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," to appear in IEEE Transactions on Vehicular Technology.
+2.	Yuan-Yao Shih, Chih-Yu Wang, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
+
+3.	Ren-Hung Hwang, Chih-Yu Wang, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," IEEE Transactions on Vehicular Technology, volume 69, number 10, pages 12072-12084, October 2020.
 
 3.	Yi Zhang, Jiun-Hao Liu, Chih-Yu Wang, Hung-Yu Wei, "Decomposable Intelligence on Cloud-Edge IoT Framework for Live Video Analytics," IEEE Internet of Things Journal, volume 7, number 9, pages 8860-8873, September 2020.
 
@@ -68,8 +70,10 @@ permalink: /publication/
 
 1. **Chih-Yu Wang**, Yin-Cheng Huang, Cheng-Han Mai, Fu-Wang Chang, and Hung-Yu Wei, " Cross-Layer Optimization for Video Transmission over WLAN: Cross-Layer Prioritization," H. F. Rashvand and Y. S. Kavian (Eds.) Using Cross-Layer Techniques for Communication Systems, IGI Global, ISBN 978-1-4666-0960-0, pp. 500-526 (27 pages), Apr. 2012.
 
-
 ### Conference
+
+1. Tzu-Hsin Yang, Yu-Tai Lin, Chao-Lun Wu, Chih-Yu Wang, "Voting-based Ensemble Model for Network Anomaly Detection," ICASSP 2021 (Grand Challenge: ZYELL - NCTU Network Anomaly Detection Challenge), Toronto, Ontario, Canada, June 2021.
+
 1. Khurshed Ali, **Chih-Yu Wang**, Mi-Yen Yeh, Yi-Shin Chen, "Addressing Competitive Influence Maximization on Unknown Social Network with Deep Reinforcement Learning," International Conference on Advances in Social Networks Analysis and Mining (ASONAM), December 2020.
 
 1.	Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Deep Reinforcement Learning for MEC Streaming with Joint User Association and Resource Management," IEEE ICC, Dublin, Ireland, June 2020.
