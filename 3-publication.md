@@ -7,13 +7,15 @@ permalink: /publication/
 
 ### Journal
 
-1. Zhan-Lun Chang, Chih-Yu Wang, Hung-Yu Wei, "Flat-rate Pricing and Truthful Workload Allocation Mechanism in Multi-Layer Edge Computing," to appear in IEEE Transactions on Wireless Communications.
+1. Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Dual Pricing Optimization for Live Video Streaming in Mobile Edge Computing with Joint User Association and Resource Management," to appear in IEEE Transactions on Mobile Computing.
 
-2.	Yuan-Yao Shih, Chih-Yu Wang, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
+1. Zhan-Lun Chang, **Chih-Yu Wang**, Hung-Yu Wei, "Flat-rate Pricing and Truthful Workload Allocation Mechanism in Multi-Layer Edge Computing," to appear in IEEE Transactions on Wireless Communications.
 
-3.	Ren-Hung Hwang, Chih-Yu Wang, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," IEEE Transactions on Vehicular Technology, volume 69, number 10, pages 12072-12084, October 2020.
+2.	Yuan-Yao Shih, **Chih-Yu Wang**, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," to appear in IEEE Transactions on Services Computing.
 
-3.	Yi Zhang, Jiun-Hao Liu, Chih-Yu Wang, Hung-Yu Wei, "Decomposable Intelligence on Cloud-Edge IoT Framework for Live Video Analytics," IEEE Internet of Things Journal, volume 7, number 9, pages 8860-8873, September 2020.
+3.	Ren-Hung Hwang, **Chih-Yu Wang**, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," IEEE Transactions on Vehicular Technology, volume 69, number 10, pages 12072-12084, October 2020.
+
+3.	Yi Zhang, Jiun-Hao Liu, **Chih-Yu Wang**, Hung-Yu Wei, "Decomposable Intelligence on Cloud-Edge IoT Framework for Live Video Analytics," IEEE Internet of Things Journal, volume 7, number 9, pages 8860-8873, September 2020.
 
 1. Cheng-Chih Chao, **Chih-Yu Wang**, Chia-Han Lee, Hung-Yu Wei, Wen-Tsuen Chen, "Pair Auction and Matching for Resource Allocation in Full- Duplex Cellular Systems," IEEE Transactions on Vehicular Technology, volume 69, number 4, pages 4325-4339, April 2020.
 
@@ -72,7 +74,9 @@ permalink: /publication/
 
 ### Conference
 
-1. Tzu-Hsin Yang, Yu-Tai Lin, Chao-Lun Wu, Chih-Yu Wang, "Voting-based Ensemble Model for Network Anomaly Detection," ICASSP 2021 (Grand Challenge: ZYELL - NCTU Network Anomaly Detection Challenge), Toronto, Ontario, Canada, June 2021.
+1. 	Sin-Yuan Huang, **Chih-Yu Wang**, Szu-Liang Wang, Wei-Chong Chen, Wei-Ho Chung, "Full-Duplex Double Relay Secure Communication," IEEE PIMRC, Virtual, September 2021.
+
+1. Tzu-Hsin Yang, Yu-Tai Lin, Chao-Lun Wu, **Chih-Yu Wang**, "Voting-based Ensemble Model for Network Anomaly Detection," ICASSP 2021 (Grand Challenge: ZYELL - NCTU Network Anomaly Detection Challenge), Toronto, Ontario, Canada, June 2021.
 
 1. Khurshed Ali, **Chih-Yu Wang**, Mi-Yen Yeh, Yi-Shin Chen, "Addressing Competitive Influence Maximization on Unknown Social Network with Deep Reinforcement Learning," International Conference on Advances in Social Networks Analysis and Mining (ASONAM), December 2020.
 
