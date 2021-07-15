@@ -19,6 +19,7 @@ permalink: /experience/
 * Free Blogger @ Engadget Chinese (2006.07 - 2011.07)
 
 ## Awards
+* Pan Wen-Yuan Exploration Research Award (2021)
 * K. T. Li Young Researcher Award (2019)
 * Best Presentation Award in Taiwan Spring School on Information Theory and Communications (2013)
 * IEEE INFOCOM Student Travel Grant (sponsored by IEEE Communications Society) (2013)
