@@ -74,6 +74,10 @@ permalink: /publication/
 
 ### Conference
 
+1. Yu-Tai Lin, Yu-Cheng Hsiao, **Chih-Yu Wang**, "Enabling Mobile Edge Computing for Battery-less Intermittent IoT Devices," IEEE Globecom, Madrid, Spain, December 2021.
+
+1.	Zhan-Lun Chang, Chun-Yen Lee, Chia-Hung Lin, **Chih-Yu Wang**, Hung-Yu Wei, "Game-Theoretic Intrusion Prevention System Deployment for Mobile Edge Computing," IEEE Globecom, Madrid, Spain, December 2021.
+
 1. 	Sin-Yuan Huang, **Chih-Yu Wang**, Szu-Liang Wang, Wei-Chong Chen, Wei-Ho Chung, "Full-Duplex Double Relay Secure Communication," IEEE PIMRC, Virtual, September 2021.
 
 1. Tzu-Hsin Yang, Yu-Tai Lin, Chao-Lun Wu, **Chih-Yu Wang**, "Voting-based Ensemble Model for Network Anomaly Detection," ICASSP 2021 (Grand Challenge: ZYELL - NCTU Network Anomaly Detection Challenge), Toronto, Ontario, Canada, June 2021.
