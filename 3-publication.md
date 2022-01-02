@@ -80,6 +80,8 @@ permalink: /publication/
 
 1.	Zhan-Lun Chang, Chun-Yen Lee, Chia-Hung Lin, **Chih-Yu Wang**, Hung-Yu Wei, "Game-Theoretic Intrusion Prevention System Deployment for Mobile Edge Computing," IEEE Globecom, Madrid, Spain, December 2021.
 
+1. Che-Hsien Lin, Hung-Chun Chen, Li-Chen Cheng, Shu-Chuan Hsu, Jun-Cheng Chen, **Chih-Yu Wang**, "StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer," IEEE International Conference on Automatic Face and Gesture Recognition (FG), Jodhpur, India (Virtual Event), December 2021.
+
 1. Khurshed Ali, **Chih-Yu Wang**, Mi-Yen Yeh, Cheng-Te Li, Yi-Shin Chen, "NEDRL-CIM:Network Embedding Meets Deep Reinforcement Learning to Tackle Competitive Influence Maximization on Evolving Social Networks," IEEE DSAA, Online, October 2021.
 
 1. 	Sin-Yuan Huang, **Chih-Yu Wang**, Szu-Liang Wang, Wei-Chong Chen, Wei-Ho Chung, "Full-Duplex Double Relay Secure Communication," IEEE PIMRC, Virtual, September 2021.
