@@ -11,7 +11,7 @@ permalink: /publication/
 
 1.	Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Dual Pricing Optimization for Live Video Streaming in Mobile Edge Computing with Joint User Association and Resource Management," to appear in IEEE Transactions on Mobile Computing.
 
-1.	Yuan-Yao Shih, Chih-Yu Wang, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," IEEE Transactions on Services Computing, volume 14, number 6, pages 1765-1780, November 2021.
+1.	Yuan-Yao Shih, **Chih-Yu Wang**, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," IEEE Transactions on Services Computing, volume 14, number 6, pages 1765-1780, November 2021.
 
 1. Zhan-Lun Chang, **Chih-Yu Wang**, Hung-Yu Wei, "Flat-rate Pricing and Truthful Workload Allocation Mechanism in Multi-Layer Edge Computing," to appear in IEEE Transactions on Wireless Communications.
 
