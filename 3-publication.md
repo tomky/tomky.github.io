@@ -6,6 +6,9 @@ permalink: /publication/
 [Google Scholar](http://scholar.google.com.tw/citations?user=Ihv0XtYAAAAJ&hl=zh-TW)
 
 ### Journal
+1. 	Te-Chuan Chiu, Chih-Yu Wang, Ai-Chun Pang, Wei-Ho Chung, "Collaborative Energy Beamforming for Wireless Powered Fog Computing Networks," to appear in IEEE Transactions on Wireless Communications.
+
+1. 	Sheng Chun Fan, Hsin-Yuan Chang, Chih-Yu Wang, Wei-Ho Chung, "Super Resolution-Based Beam Selection with Hierarchical Codebook in mmWave Communication," to appear in IEEE Wireless Communications Letters.
 
 1. Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Pricing-based Deep Reinforcement Learning for Live Video Streaming with Joint User Association and Resource Management in Mobile Edge Computing," to appear in IEEE Transactions on Wireless Communications.
 
@@ -15,9 +18,9 @@ permalink: /publication/
 
 1. Zhan-Lun Chang, **Chih-Yu Wang**, Hung-Yu Wei, "Flat-rate Pricing and Truthful Workload Allocation Mechanism in Multi-Layer Edge Computing," to appear in IEEE Transactions on Wireless Communications.
 
-3.	Ren-Hung Hwang, **Chih-Yu Wang**, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," IEEE Transactions on Vehicular Technology, volume 69, number 10, pages 12072-12084, October 2020.
+1.	Ren-Hung Hwang, **Chih-Yu Wang**, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," IEEE Transactions on Vehicular Technology, volume 69, number 10, pages 12072-12084, October 2020.
 
-3.	Yi Zhang, Jiun-Hao Liu, **Chih-Yu Wang**, Hung-Yu Wei, "Decomposable Intelligence on Cloud-Edge IoT Framework for Live Video Analytics," IEEE Internet of Things Journal, volume 7, number 9, pages 8860-8873, September 2020.
+1.	Yi Zhang, Jiun-Hao Liu, **Chih-Yu Wang**, Hung-Yu Wei, "Decomposable Intelligence on Cloud-Edge IoT Framework for Live Video Analytics," IEEE Internet of Things Journal, volume 7, number 9, pages 8860-8873, September 2020.
 
 1. Cheng-Chih Chao, **Chih-Yu Wang**, Chia-Han Lee, Hung-Yu Wei, Wen-Tsuen Chen, "Pair Auction and Matching for Resource Allocation in Full- Duplex Cellular Systems," IEEE Transactions on Vehicular Technology, volume 69, number 4, pages 4325-4339, April 2020.
 
@@ -75,6 +78,10 @@ permalink: /publication/
 1. **Chih-Yu Wang**, Yin-Cheng Huang, Cheng-Han Mai, Fu-Wang Chang, and Hung-Yu Wei, " Cross-Layer Optimization for Video Transmission over WLAN: Cross-Layer Prioritization," H. F. Rashvand and Y. S. Kavian (Eds.) Using Cross-Layer Techniques for Communication Systems, IGI Global, ISBN 978-1-4666-0960-0, pp. 500-526 (27 pages), Apr. 2012.
 
 ### Conference
+
+1. Wan-Yu Chen, Hsin-Yuan Chang, Chih-Yu Wang, Wei-Ho Chung, "Cooperative Neighboring Vehicle Positioning Systems Based on Graph Convolutional Network: A Multi-Scenario Transfer Learning Approach," IEEE International Conference on Communications (ICC), Seoul, South Korea, May 2022.
+
+1.	Che-Hsien Lin, Hung-Chun Chen, Li-Chen Cheng, Shu-Chuan Hsu, Jun-Cheng Chen, Chih-Yu Wang, "StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer," IEEE International Conference on Automatic Face and Gesture Recognition (FG), Jodhpur, India (Virtual Event), December 2021.
 
 1. Yu-Tai Lin, Yu-Cheng Hsiao, **Chih-Yu Wang**, "Enabling Mobile Edge Computing for Battery-less Intermittent IoT Devices," IEEE Globecom, Madrid, Spain, December 2021.
 
