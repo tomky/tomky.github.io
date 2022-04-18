@@ -6,9 +6,9 @@ permalink: /publication/
 [Google Scholar](http://scholar.google.com.tw/citations?user=Ihv0XtYAAAAJ&hl=zh-TW)
 
 ### Journal
-1. 	Te-Chuan Chiu, Chih-Yu Wang, Ai-Chun Pang, Wei-Ho Chung, "Collaborative Energy Beamforming for Wireless Powered Fog Computing Networks," to appear in IEEE Transactions on Wireless Communications.
+1. 	Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Wei-Ho Chung, "Collaborative Energy Beamforming for Wireless Powered Fog Computing Networks," to appear in IEEE Transactions on Wireless Communications.
 
-1. 	Sheng Chun Fan, Hsin-Yuan Chang, Chih-Yu Wang, Wei-Ho Chung, "Super Resolution-Based Beam Selection with Hierarchical Codebook in mmWave Communication," to appear in IEEE Wireless Communications Letters.
+1. 	Sheng Chun Fan, Hsin-Yuan Chang, **Chih-Yu Wang**, Wei-Ho Chung, "Super Resolution-Based Beam Selection with Hierarchical Codebook in mmWave Communication," to appear in IEEE Wireless Communications Letters.
 
 1. Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Pricing-based Deep Reinforcement Learning for Live Video Streaming with Joint User Association and Resource Management in Mobile Edge Computing," to appear in IEEE Transactions on Wireless Communications.
 
@@ -79,9 +79,7 @@ permalink: /publication/
 
 ### Conference
 
-1. Wan-Yu Chen, Hsin-Yuan Chang, Chih-Yu Wang, Wei-Ho Chung, "Cooperative Neighboring Vehicle Positioning Systems Based on Graph Convolutional Network: A Multi-Scenario Transfer Learning Approach," IEEE International Conference on Communications (ICC), Seoul, South Korea, May 2022.
-
-1.	Che-Hsien Lin, Hung-Chun Chen, Li-Chen Cheng, Shu-Chuan Hsu, Jun-Cheng Chen, Chih-Yu Wang, "StyleDNA: A High-Fidelity Age and Gender Aware Kinship Face Synthesizer," IEEE International Conference on Automatic Face and Gesture Recognition (FG), Jodhpur, India (Virtual Event), December 2021.
+1. Wan-Yu Chen, Hsin-Yuan Chang, **Chih-Yu Wang**, Wei-Ho Chung, "Cooperative Neighboring Vehicle Positioning Systems Based on Graph Convolutional Network: A Multi-Scenario Transfer Learning Approach," IEEE International Conference on Communications (ICC), Seoul, South Korea, May 2022.
 
 1. Yu-Tai Lin, Yu-Cheng Hsiao, **Chih-Yu Wang**, "Enabling Mobile Edge Computing for Battery-less Intermittent IoT Devices," IEEE Globecom, Madrid, Spain, December 2021.
 
