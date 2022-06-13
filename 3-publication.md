@@ -6,17 +6,19 @@ permalink: /publication/
 [Google Scholar](http://scholar.google.com.tw/citations?user=Ihv0XtYAAAAJ&hl=zh-TW)
 
 ### Journal
+1. Khurhed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "Leveraging Transfer Learning in Reinforcement Learning to Tackle Competitive Influence Maximization," to appear in Knowledge and Information Systems.
+
 1. 	Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Wei-Ho Chung, "Collaborative Energy Beamforming for Wireless Powered Fog Computing Networks," to appear in IEEE Transactions on Wireless Communications.
-
-1. 	Sheng Chun Fan, Hsin-Yuan Chang, **Chih-Yu Wang**, Wei-Ho Chung, "Super Resolution-Based Beam Selection with Hierarchical Codebook in mmWave Communication," to appear in IEEE Wireless Communications Letters.
-
-1. Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Pricing-based Deep Reinforcement Learning for Live Video Streaming with Joint User Association and Resource Management in Mobile Edge Computing," to appear in IEEE Transactions on Wireless Communications.
 
 1.	Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Dual Pricing Optimization for Live Video Streaming in Mobile Edge Computing with Joint User Association and Resource Management," to appear in IEEE Transactions on Mobile Computing.
 
+1. Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Pricing-based Deep Reinforcement Learning for Live Video Streaming with Joint User Association and Resource Management in Mobile Edge Computing," IEEE Transactions on Wireless Communications, volume 21, number 6, pages 4310 - 4324, June 2022.
+
+1. 	Sheng Chun Fan, Hsin-Yuan Chang, **Chih-Yu Wang**, Wei-Ho Chung, "Super Resolution-Based Beam Selection with Hierarchical Codebook in mmWave Communication," IEEE Wireless Communications Letters, volume 11, number 5, pages 967-971, May 2022.
+
 1.	Yuan-Yao Shih, **Chih-Yu Wang**, Ai-Chun Pang, "Fog Computing Service Provision using Bargaining Solutions," IEEE Transactions on Services Computing, volume 14, number 6, pages 1765-1780, November 2021.
 
-1. Zhan-Lun Chang, **Chih-Yu Wang**, Hung-Yu Wei, "Flat-rate Pricing and Truthful Workload Allocation Mechanism in Multi-Layer Edge Computing," to appear in IEEE Transactions on Wireless Communications.
+1. Zhan-Lun Chang, **Chih-Yu Wang**, Hung-Yu Wei, "Flat-rate Pricing and Truthful Workload Allocation Mechanism in Multi-Layer Edge Computing," IEEE Transactions on Wireless Communications, volume 20, number 9, pages 6107-6121, September 2021.
 
 1.	Ren-Hung Hwang, **Chih-Yu Wang**, Jenq Neng Hwang, Yu-Ren Lin, Wei-Yu Chen, "Optimizing Live Layered Video Multicasting over LTE with Mobile Edge Computing," IEEE Transactions on Vehicular Technology, volume 69, number 10, pages 12072-12084, October 2020.
 
