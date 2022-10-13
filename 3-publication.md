@@ -6,13 +6,14 @@ permalink: /publication/
 [Google Scholar](http://scholar.google.com.tw/citations?user=Ihv0XtYAAAAJ&hl=zh-TW)
 
 ### Journal
-1. Khurhed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "Leveraging Transfer Learning in Reinforcement Learning to Tackle Competitive Influence Maximization," to appear in Knowledge and Information Systems.
 
-1. 	Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Wei-Ho Chung, "Collaborative Energy Beamforming for Wireless Powered Fog Computing Networks," to appear in IEEE Transactions on Wireless Communications.
+1. 	Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Dual Pricing Optimization for Live Video Streaming in Mobile Edge Computing with Joint User Association and Resource Management," to appear in IEEE Transactions on Mobile Computing.
 
-1.	Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Dual Pricing Optimization for Live Video Streaming in Mobile Edge Computing with Joint User Association and Resource Management," to appear in IEEE Transactions on Mobile Computing.
+2.	Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Wei-Ho Chung, "Collaborative Energy Beamforming for Wireless Powered Fog Computing Networks," IEEE Transactions on Wireless Communications, volume 21, number 10, pages 7942-7956, October 2022.
 
-1. Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Pricing-based Deep Reinforcement Learning for Live Video Streaming with Joint User Association and Resource Management in Mobile Edge Computing," IEEE Transactions on Wireless Communications, volume 21, number 6, pages 4310 - 4324, June 2022.
+3.	Khurhed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "Leveraging Transfer Learning in Reinforcement Learning to Tackle Competitive Influence Maximization," Knowledge and Information Systems, volume 64, number 8, pages 2059–2090, August 2022.
+
+4.	Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Pricing-based Deep Reinforcement Learning for Live Video Streaming with Joint User Association and Resource Management in Mobile Edge Computing," IEEE Transactions on Wireless Communications, volume 21, number 6, pages 4310 - 4324, June 2022.
 
 1. 	Sheng Chun Fan, Hsin-Yuan Chang, **Chih-Yu Wang**, Wei-Ho Chung, "Super Resolution-Based Beam Selection with Hierarchical Codebook in mmWave Communication," IEEE Wireless Communications Letters, volume 11, number 5, pages 967-971, May 2022.
 
@@ -80,6 +81,12 @@ permalink: /publication/
 1. **Chih-Yu Wang**, Yin-Cheng Huang, Cheng-Han Mai, Fu-Wang Chang, and Hung-Yu Wei, " Cross-Layer Optimization for Video Transmission over WLAN: Cross-Layer Prioritization," H. F. Rashvand and Y. S. Kavian (Eds.) Using Cross-Layer Techniques for Communication Systems, IGI Global, ISBN 978-1-4666-0960-0, pp. 500-526 (27 pages), Apr. 2012.
 
 ### Conference
+
+1. Li-Chen Cheng, Shu-Chuan Hsu, Pin-Hua Lee, Hsiu-Chieh Lee, Che-Hsien Lin, Jun-Cheng Chen, **Chih-Yu Wang**, "KinStyle: A Strong Baseline Photorealistic Kinship Face Synthesis with An Optimized StyleGAN Encoder," to appear in Asian Conference on Computer Vision (ACCV),.
+
+1.	Chao-Lun Wu, Yu-Ying Chen, Po-Yu Chou, **Chih-Yu Wang**, "Synthetic Traffic Generation with Wasserstein Generative Adversarial Networks," IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, December 2022.
+
+1.	Hsiu-Chieh Lee, Che-Hsien Lin, Li-Chen Cheng, Shu-Chuan Hsu, Jun-Cheng Chen, **Chih-Yu Wang**, "Kinship Face Synthesis Evaluation Website with Gamified Mechanism," IEEE International Conference on Multimedia and Expo (ICME), July 2022.
 
 1. Wan-Yu Chen, Hsin-Yuan Chang, **Chih-Yu Wang**, Wei-Ho Chung, "Cooperative Neighboring Vehicle Positioning Systems Based on Graph Convolutional Network: A Multi-Scenario Transfer Learning Approach," IEEE International Conference on Communications (ICC), Seoul, South Korea, May 2022.
 
