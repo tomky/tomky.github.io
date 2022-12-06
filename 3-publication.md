@@ -84,7 +84,7 @@ permalink: /publication/
 
 1. Li-Chen Cheng, Shu-Chuan Hsu, Pin-Hua Lee, Hsiu-Chieh Lee, Che-Hsien Lin, Jun-Cheng Chen, **Chih-Yu Wang**, "KinStyle: A Strong Baseline Photorealistic Kinship Face Synthesis with An Optimized StyleGAN Encoder," to appear in Asian Conference on Computer Vision (ACCV),.
 
-1.	Chao-Lun Wu, Yu-Ying Chen, Po-Yu Chou, **Chih-Yu Wang**, "Synthetic Traffic Generation with Wasserstein Generative Adversarial Networks," IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, December 2022.
+1.	Chao-Lun Wu, Yu-Ying Chen, Po-Yu Chou, **Chih-Yu Wang**, "Synthetic Traffic Generation with Wasserstein Generative Adversarial Networks," IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, December 2022. [Codes](https://github.com/snaclab/SPATGAN)
 
 1.	Hsiu-Chieh Lee, Che-Hsien Lin, Li-Chen Cheng, Shu-Chuan Hsu, Jun-Cheng Chen, **Chih-Yu Wang**, "Kinship Face Synthesis Evaluation Website with Gamified Mechanism," IEEE International Conference on Multimedia and Expo (ICME), July 2022.
 
