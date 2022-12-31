@@ -7,6 +7,8 @@ permalink: /publication/
 
 ### Journal
 
+1. Jing-Wen Ke, Ren-Hung Hwang, **Chih-Yu Wang**, Jian-Jhih Kuo, Wei-Yu Chen, "Efﬁcient RRH Activation Management for 5G V2X," to appear in IEEE Transactions on Mobile Computing.
+
 1. 	Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Dual Pricing Optimization for Live Video Streaming in Mobile Edge Computing with Joint User Association and Resource Management," to appear in IEEE Transactions on Mobile Computing.
 
 2.	Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Wei-Ho Chung, "Collaborative Energy Beamforming for Wireless Powered Fog Computing Networks," IEEE Transactions on Wireless Communications, volume 21, number 10, pages 7942-7956, October 2022.
