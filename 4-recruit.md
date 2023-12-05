@@ -10,9 +10,9 @@ fb_img: /img/dindin.png
 
 I'm seeking passionate researchers/students who would like to tackle the challenges in wireless network and social networks. Specifically, I'm interested in the following directions:
 
-* Emerging techniques in 5G communications
-* Influence, competition, and collaboration in social networks
-* Data science involving human factor (incentive, pricing, privacy, etc.)
+* Wireless Communications / Networks
+* Quantum Networks
+* Artificial Intellignece involving Networking Factors
 
 # Research Assistant 研究助理
 
