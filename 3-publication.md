@@ -7,15 +7,25 @@ permalink: /publication/
 
 ### Journal
 
-1. Jing-Wen Ke, Ren-Hung Hwang, **Chih-Yu Wang**, Jian-Jhih Kuo, Wei-Yu Chen, "Efﬁcient RRH Activation Management for 5G V2X," to appear in IEEE Transactions on Mobile Computing.
+1. Chun-Yen Lee, Chia-Hung Lin, Zhan-Lun Chang, **Chih-Yu Wang**, Hung-Yu Wei, "Joint Resource Allocation and Intrusion Prevention System Deployment for Edge Computing," to appear in IEEE Transactions on Services Computing.
 
-1. 	Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Dual Pricing Optimization for Live Video Streaming in Mobile Edge Computing with Joint User Association and Resource Management," to appear in IEEE Transactions on Mobile Computing.
+1.	Chao-Lun Wu, Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, "Mobility-Aware Deep Reinforcement Learning with Seq2seq Mobility Prediction for Offloading and Allocation in Edge Computing," to appear in IEEE Transactions on Mobile Computing.
 
-2.	Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Wei-Ho Chung, "Collaborative Energy Beamforming for Wireless Powered Fog Computing Networks," IEEE Transactions on Wireless Communications, volume 21, number 10, pages 7942-7956, October 2022.
+1.	Chia-Che Sa, Li-Chen Cheng, Hsing-Huan Chung, Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Shang-Tse Chen, "Ensuring Bidirectional Privacy on Wireless Split Inference Systems," to appear in IEEE Wireless Communications.
 
-3.	Khurhed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "Leveraging Transfer Learning in Reinforcement Learning to Tackle Competitive Influence Maximization," Knowledge and Information Systems, volume 64, number 8, pages 2059–2090, August 2022.
+1.	Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, Sin-Yu Huang, "Impact of Hardware Impairment on the Joint Reconfigurable Intelligent Surface and Robust Transceiver Design in MU-MIMO System," IEEE Transactions on Mobile Computing, volume 23, number 5, pages 3993 - 4008, May 2024.
 
-4.	Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Pricing-based Deep Reinforcement Learning for Live Video Streaming with Joint User Association and Resource Management in Mobile Edge Computing," IEEE Transactions on Wireless Communications, volume 21, number 6, pages 4310 - 4324, June 2022.
+1.	Jing-Wen Ke, Ren-Hung Hwang, **Chih-Yu Wang**, Jian-Jhih Kuo, Wei-Yu Chen, "Efﬁcient RRH Activation Management for 5G V2X," IEEE Transactions on Mobile Computing, volume 23, number 2, pages 1215 - 1229, February 2024.
+
+1.	Cheng-Wei Ching, Jia-Ming~Chang, Jian-Jhih~Kuo, **Chih-Yu~Wang**, "Dual-Objective Personalized Federated Service System with Partially-labeled Data over Wireless Networks," IEEE Transactions on Services Computing, volume 16, number 5, pages 3265 - 3279, September 2023.
+
+1.	Wei-Yu Chen, Po-Yu Chou, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Dual Pricing Optimization for Live Video Streaming in Mobile Edge Computing with Joint User Association and Resource Management," IEEE Transactions on Mobile Computing, volume 22, number 2, pages 858 - 873, February 2023.
+
+1.	Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Wei-Ho Chung, "Collaborative Energy Beamforming for Wireless Powered Fog Computing Networks," IEEE Transactions on Wireless Communications, volume 21, number 10, pages 7942-7956, October 2022.
+
+1.	Khurhed Ali, **Chih-Yu Wang**, Yi-Shin Chen, "Leveraging Transfer Learning in Reinforcement Learning to Tackle Competitive Influence Maximization," Knowledge and Information Systems, volume 64, number 8, pages 2059–2090, August 2022.
+
+1.	Po-Yu Chou, Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, "Pricing-based Deep Reinforcement Learning for Live Video Streaming with Joint User Association and Resource Management in Mobile Edge Computing," IEEE Transactions on Wireless Communications, volume 21, number 6, pages 4310 - 4324, June 2022.
 
 1. 	Sheng Chun Fan, Hsin-Yuan Chang, **Chih-Yu Wang**, Wei-Ho Chung, "Super Resolution-Based Beam Selection with Hierarchical Codebook in mmWave Communication," IEEE Wireless Communications Letters, volume 11, number 5, pages 967-971, May 2022.
 
@@ -83,6 +93,22 @@ permalink: /publication/
 1. **Chih-Yu Wang**, Yin-Cheng Huang, Cheng-Han Mai, Fu-Wang Chang, and Hung-Yu Wei, " Cross-Layer Optimization for Video Transmission over WLAN: Cross-Layer Prioritization," H. F. Rashvand and Y. S. Kavian (Eds.) Using Cross-Layer Techniques for Communication Systems, IGI Global, ISBN 978-1-4666-0960-0, pp. 500-526 (27 pages), Apr. 2012.
 
 ### Conference
+
+1.	Mei-Qi Huang, Hsin-Yuan Chang, **Chih-Yu Wang**, Wei-Ho Chung, "A Self-Supervised Approach for Cooperative Neighboring Vehicle Positioning System based on Spatial-Temporal Learning Techniques," IEEE Vehicular Technology Conference (VTC-Spring), Singapore, June 2024.
+
+1.	Julia Fu, **Chih-Yu Wang**, Hung-Yu Wei, "Straggler Mitigation in Edge-Based Split Learning with Coalition Formation Game," IEEE Vehicular Technology Conference (VTC-Spring), Singapore, June 2024.
+
+1.	Sin-Yu Huang, Jia-You Lin, **Chih-Yu Wang**, Ren-Hung Hwang, "MSE minimization for RIS-Assisted Wireless Networks with Phase Error and Phase-dependent Amplitude Response," IEEE Vehicular Technology Conference (VTC-Spring), Singapore, June 2024.
+
+1.	Hui-Xin Shih, Yu-An Lin, Hsu-Huai Tsai, Yuan Lin-Huang, **Chih-Yu Wang**, "Intermittent Edge Computing for Green Agricultural Automation," ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), Hong Kong, China, May 2024.
+
+1.	Ting-Le Lin, Hung Chun Hsu, Bo-Jun Wu, Ming-Yi Hong, Che Lin, **Chih-Yu Wang**, "FincGAN: A GAN Framework of Imbalanced Node Classification on Heterogeneous Graph Neural Network," IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Seoul, Korea, April 2024.
+
+1.	Ming-Yi Hong, Shih-Yen Chang, Hao-Wei Hsu, Yi-Hsiang Huang, **Chih-Yu Wang**, Che Lin, "TreeXGNN: Can Gradient-Boosted Decision Trees Help Boost Heterogeneous Graph Neural Networks?," IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, June 2023.
+
+1.	Yu-Tai Lin, Chi-Yang Kuo, Ming-Hsuan Tsai, **Chih-Yu Wang**, "Queueing Model for Intermittent Communication and Computing of Battery-less Edge Computing," ICC Workshop on Green and Sustainable Networking (GREENNET), Rome, Italy, May 2023.
+
+1.	Shang-Huan Wu, Ren-Hung Hwang, **Chih-Yu Wang**, Ching-Hsuan Chou, "Deep Reinforcement Learning Based Resource Allocation for 5G V2V Groupcast Communications," International Conference on Computing, Networking and Communications (ICNC), Honolulu, Hawaii, USA, February 2023.
 
 1. Li-Chen Cheng, Shu-Chuan Hsu, Pin-Hua Lee, Hsiu-Chieh Lee, Che-Hsien Lin, Jun-Cheng Chen, **Chih-Yu Wang**, "KinStyle: A Strong Baseline Photorealistic Kinship Face Synthesis with An Optimized StyleGAN Encoder," to appear in Asian Conference on Computer Vision (ACCV),.
 

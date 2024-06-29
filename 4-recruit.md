@@ -10,14 +10,15 @@ fb_img: /img/dindin.png
 
 I'm seeking passionate researchers/students who would like to tackle the challenges in wireless network and social networks. Specifically, I'm interested in the following directions:
 
-* Emerging techniques in 5G communications
+* Emerging techniques in 6G communications
+* Edge intelligence, or AI Everywhere Vision
 * Influence, competition, and collaboration in social networks
 * Data science involving human factor (incentive, pricing, privacy, etc.)
 
 # Research Assistant 研究助理
 
 > Requirements: Master degree in EE/CS/Econ/Math  
-> Salary (full-time): About USD 1200 / month
+> Salary (full-time): About USD 1300 / month
 
 # Postdoctoral Fellow 博士後研究員
 
