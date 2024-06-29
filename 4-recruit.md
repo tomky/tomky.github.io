@@ -12,6 +12,7 @@ I'm seeking passionate researchers/students who would like to tackle the challen
 
 * Emerging techniques in 6G communications
 * Edge intelligence, or AI Everywhere Vision
+* Quantum networking: theory and prototyping
 * Influence, competition, and collaboration in social networks
 * Data science involving human factor (incentive, pricing, privacy, etc.)
 
