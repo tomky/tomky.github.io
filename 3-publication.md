@@ -7,11 +7,12 @@ permalink: /publication/
 
 ### Journal
 
-1. Chun-Yen Lee, Chia-Hung Lin, Zhan-Lun Chang, **Chih-Yu Wang**, Hung-Yu Wei, "Joint Resource Allocation and Intrusion Prevention System Deployment for Edge Computing," to appear in IEEE Transactions on Services Computing.
+1. 	Chia-Che Sa, Li-Chen Cheng, Hsing-Huan Chung, Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Shang-Tse Chen, "Ensuring Bidirectional Privacy on Wireless Split Inference Systems," IEEE Wireless Communications, volume 31, number 5, pages 131-141, October 2024.
 
-1.	Chao-Lun Wu, Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, "Mobility-Aware Deep Reinforcement Learning with Seq2seq Mobility Prediction for Offloading and Allocation in Edge Computing," to appear in IEEE Transactions on Mobile Computing.
+1. 	Chun-Yen Lee, Chia-Hung Lin, Zhan-Lun Chang, **Chih-Yu Wang**, Hung-Yu Wei, "Joint Resource Allocation and Intrusion Prevention System Deployment for Edge Computing," IEEE Transactions on Services Computing, volume 17, number 5, pages 2502 - 2515, September 2024.
 
-1.	Chia-Che Sa, Li-Chen Cheng, Hsing-Huan Chung, Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, Shang-Tse Chen, "Ensuring Bidirectional Privacy on Wireless Split Inference Systems," to appear in IEEE Wireless Communications.
+1. 	Chao-Lun Wu, Te-Chuan Chiu, **Chih-Yu Wang**, Ai-Chun Pang, "Mobility-Aware Deep Reinforcement Learning with Seq2seq Mobility Prediction for Offloading and Allocation in Edge Computing," IEEE Transactions on Mobile Computing, volume 23, pages 6803-6819, June 2024.
+
 
 1.	Wei-Yu Chen, **Chih-Yu Wang**, Ren-Hung Hwang, Wen-Tsuen Chen, Sin-Yu Huang, "Impact of Hardware Impairment on the Joint Reconfigurable Intelligent Surface and Robust Transceiver Design in MU-MIMO System," IEEE Transactions on Mobile Computing, volume 23, number 5, pages 3993 - 4008, May 2024.
 
